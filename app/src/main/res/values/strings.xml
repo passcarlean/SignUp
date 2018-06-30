@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sign Up</string>
+    <string name="first_name">Firstname</string>
+    <string name="last_name">Lastname</string>
+    <string name="email_name">Email</string>
+    <string name="password_name">Password</string>
+    <string name="sign_name">Sign Up</string>
+    <string name="or_name">OR</string>
+    <string name="facebook_name">Sign in with facebook</string>
+    <string name="twitter_name">Sign in with twitter</string>
+    <string name="google_name">Sign in google +</string>
+    <string name="date_name">Birthday</string>
+    <string name="sex_name">Sex</string>
+    <string name="f_name">F</string>
+    <string name="male_name">M</string>
+    <string name="design_name">Design by Paschaline</string>
+    <string name="login">Login</string>
+    <string name="email"> Email Address</string>
+    <string name="password">Password</string>
+    <string name="manual"> MANUAL SETUP</string>
+
+</resources>
